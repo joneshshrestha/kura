@@ -1,4 +1,4 @@
-# KURA("https://kuraforum.herokuapp.com/") 
+# [KURA](https://kuraforum.herokuapp.com/) 
 
 Computer Science Project
 
